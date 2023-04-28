@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   return (
     <>
-      <div className="italic">hello there</div>
+      <div className="italic">ho there</div>
     </>
   );
 }
